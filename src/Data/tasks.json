@@ -431,6 +431,23 @@
         "point6": "",
         "point7": ""
       },
+  
+      {
+        "id": "C28",
+        "index": 63,
+        "taskName": "Inch Convert To cm",
+        "shortDescription": "Inch Convert to cm using coding knowlege ",
+        "description": "Inch convert to cm using your coding knowlege",
+        "catogery": "Code",
+        "submit": "https://forms.gle/g4SNhVyAsuK5u4QZ7",
+        "point1": "You can use any programming lanuage to complete this task.",
+        "point2": "Send us screen record of your project",
+        "point3": "If you use HTML or any other lanuage send us a pdf explain why you use this programming lanuage.",
+        "point4": "Using other people’s code from the internet is strictly prohibited.",
+        "point5": "",
+        "point6": "",
+        "point7": ""
+      },
 
 
       {
